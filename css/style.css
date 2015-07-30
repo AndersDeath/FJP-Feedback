@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+
+body {
+		background: #efefef url(../img/background.png) repeat top center;
+}
+
+
+.skillbox {
+  margin: 0 0 20px 0;
+  background: #fff;
+  overflow: hidden;
+  border-radius: 5px 5px 5px 5px;
+  -moz-border-radius: 5px 5px 5px 5px;
+  -webkit-border-radius: 5px 5px 5px 5px;
+  -webkit-box-shadow: 0px 2px 1px 1px rgba(0,0,0,0.21);
+  -moz-box-shadow: 0px 2px 1px 1px rgba(0,0,0,0.21);
+  box-shadow: 0px 2px 1px 1px rgba(0,0,0,0.21);
+
+}
+
+.contacts {
+  text-align: center;
+  font-size: 28px;
+}
+
+.feed textarea {
+  height: 200px;
+}
+
+.footer {
+  height: 50px;
+}
+
+.alert-box.success.radius h4 {
+  font-size: 24px;
+  color:#fff;
+}
