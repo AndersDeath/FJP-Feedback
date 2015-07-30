@@ -13,7 +13,7 @@ It consists of:
 You can prescribe your settings to a file "config.php", where:
 
 FJPTITLE - from whom sent
-FJPMAILTO - on what to send emal
+FJPMAILTO - on what to send email
 FJPMAILTONAME - sender's name
 FJPSUBJECT - email subject
 
