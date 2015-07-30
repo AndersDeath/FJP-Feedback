@@ -13,9 +13,9 @@ It consists of:
 
 You can prescribe your settings to a file "config.php", where:
 
-FJPTITLE - from whom sent
-FJPMAILTO - on what to send email
-FJPMAILTONAME - sender's name
-FJPSUBJECT - email subject
+FJPTITLE - from whom sent<br>
+FJPMAILTO - on what to send email<br>
+FJPMAILTONAME - sender's name<br>
+FJPSUBJECT - email subject<br>
 
 version 1.0
